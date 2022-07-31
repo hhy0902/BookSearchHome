@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "375605492226",
+    "firebase_url": "https://booksearch-58f23-default-rtdb.firebaseio.com",
+    "project_id": "booksearch-58f23",
+    "storage_bucket": "booksearch-58f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375605492226:android:0225995d984e0fca69051b",
+        "android_client_info": {
+          "package_name": "com.example.booksearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375605492226-idc8261doi0mvqed8firdav4vlon6mv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5FSnqqQpG8KfA3WKtnraJixGPJKkcys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375605492226-idc8261doi0mvqed8firdav4vlon6mv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375605492226:android:c22239efde6eb43969051b",
+        "android_client_info": {
+          "package_name": "com.example.booksearchcompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375605492226-idc8261doi0mvqed8firdav4vlon6mv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5FSnqqQpG8KfA3WKtnraJixGPJKkcys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375605492226-idc8261doi0mvqed8firdav4vlon6mv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375605492226:android:af924659b565367469051b",
+        "android_client_info": {
+          "package_name": "org.techtown.booksearchhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375605492226-idc8261doi0mvqed8firdav4vlon6mv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5FSnqqQpG8KfA3WKtnraJixGPJKkcys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375605492226-idc8261doi0mvqed8firdav4vlon6mv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

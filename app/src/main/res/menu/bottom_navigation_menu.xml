@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/bestseller"
+        android:icon="@drawable/best"
+        android:id="@+id/bestSeller" />
+    <item
+        android:icon="@drawable/newbook"
+        android:title="@string/newbook"
+        android:id="@+id/newBook" />
+    <item
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search"
+        android:id="@+id/searchBook" />
+    <item
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        android:title="@string/bookMark"
+        android:id="@+id/bookMark" />
+    <item
+        android:id="@+id/myPage"
+        android:title="@string/mypage"
+        android:icon="@drawable/ic_baseline_person_pin_24"/>
+</menu>

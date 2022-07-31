@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookSearchHome</string>
+    <string name="mypage">마이페이지</string>
+    <string name="bookMark">북마크</string>
+    <string name="search">검색</string>
+    <string name="newbook">신간</string>
+    <string name="bestseller">베스트셀러</string>
+</resources>
