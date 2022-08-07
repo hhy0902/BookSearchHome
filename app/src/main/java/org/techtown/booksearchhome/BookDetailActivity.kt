@@ -26,7 +26,7 @@ class BookDetailActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_book_detail)
+        setContentView(binding.root)
 
         val title = intent.getStringExtra("title")
         val imageCover = intent.getStringExtra("imageCover")
