@@ -13,6 +13,9 @@
         android:theme="@style/Theme.BookSearchHome"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".BookDetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
